@@ -1,1 +1,0 @@
-# SQL-Solved-Questions
